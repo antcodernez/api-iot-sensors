@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "This is a template to a API to record data about differents sensors",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
